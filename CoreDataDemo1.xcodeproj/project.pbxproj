@@ -71,6 +71,7 @@
 				768338FC247B45E100E15A3B /* Scenes */,
 				768338E6247B2FE100E15A3B /* Assets.xcassets */,
 				768338E3247B2FDC00E15A3B /* CoreDataDemo1.xcdatamodeld */,
+				768338EB247B2FE100E15A3B /* Info.plist */,
 			);
 			path = CoreDataDemo1;
 			sourceTree = "<group>";
@@ -110,7 +111,6 @@
 			children = (
 				768338DA247B2FDC00E15A3B /* AppDelegate.swift */,
 				768338DC247B2FDC00E15A3B /* SceneDelegate.swift */,
-				768338EB247B2FE100E15A3B /* Info.plist */,
 			);
 			path = "AppDelegate+Deleagtes";
 			sourceTree = "<group>";
